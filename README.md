@@ -1,7 +1,6 @@
 # Car-Rental-System
 A car rental system is a web based system where agencies can give their cars for rent and customers can rent out cars.  This system enables the agency to make their services available to the public through the internet and also keep records about their services This software will show all the available cars and customers can choose car of their choice for rent  The customer has to register in the system and after that they can rent car. The agencies can add, update and remove their cars in the system. All the rented cars details are stored in the database.
 
-
 #Features:
 
 Customers can create their accounts and rent cars.
@@ -50,6 +49,6 @@ Sign up as a customer or agency to access the features.
 
 @Deepanshu7777777
 
-#License:
 
+#License:
 This project is licensed under the MIT License.
