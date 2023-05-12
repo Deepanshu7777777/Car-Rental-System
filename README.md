@@ -3,7 +3,7 @@ A car rental system is a web based system where agencies can give their cars for
 
 #Features:
 
-Customers can create their accounts and rent cars.
+Customers can create their accounts and rent their cars.
 
 Agencies can add, update, and remove their cars.
 
