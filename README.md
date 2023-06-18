@@ -16,7 +16,7 @@ User-friendly interface
 
 #Technologies Used:
 
-HTML
+HTML (Hyper text and markup Language)
 
 CSS
 
