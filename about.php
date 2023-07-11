@@ -20,7 +20,7 @@
             <p>Secure User Registration System</p><br>
 
             <h4><b>Introduction:</b></h4>
-            <p>This is project is a secure otp based user registration system.</p><br>
+            <p>This is project is a secure otp based advance user registration system.</p><br>
 
             <h4><b>Platforms and Tools used:</b></h4>
             <p>HTML, CSS, PHP, MYSQL </p><br>
