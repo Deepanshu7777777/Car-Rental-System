@@ -11,8 +11,7 @@ The system displays all the available cars.
 
 The system keeps records of all rented cars.
 
-User-friendly interface
-.
+User-friendly interface.
 
 #Technologies Used:
 
